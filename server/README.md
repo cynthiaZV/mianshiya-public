@@ -1,6 +1,6 @@
 # 面试鸭后端 Node 版
 
-> Node + Express 框架，推荐用这个整体后台
+> Node + Express 框架，推荐用这个整体后台。
 
 ## 快速开发
 
